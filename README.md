@@ -2,6 +2,7 @@
 ---
 
 This repository is API based Optical Character Recognition.
+<img src="demo.gif" />
 
 ## Really Simple :)
 Just run the server and request to the server with any image file which contains characters. That's all :)
