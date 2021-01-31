@@ -59,7 +59,7 @@ $ python3 main.py test.png
 ```
 What is your response? Absolutely right!
 
-Your output:
+Finally output:
 
 ```
 By default, Tesseract expects a page of text when it segments an image. If
