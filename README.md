@@ -2,6 +2,7 @@
 ---
 
 This repository is API based Optical Character Recognition.
+</br>
 <img src="demo.gif" />
 
 ## Really Simple :)
@@ -41,7 +42,7 @@ $ uvicorn ocr:app --reload
 ```
  Then you should be get the messages below:
  
-``` bash
+``` bas
 INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
 INFO:     Started reloader process [33226] using statreload
 INFO:     Started server process [33228]
