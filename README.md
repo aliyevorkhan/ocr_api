@@ -2,7 +2,8 @@
 ---
 
 This repository is API based Optical Character Recognition.
-</br>
+<br>
+<br>
 <img src="demo.gif" />
 
 ## Really Simple :)
